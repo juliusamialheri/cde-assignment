@@ -61,3 +61,6 @@ Key Technical Decisions
 	3. Separated ETL, database loading, and file management into different scripts
 
 This assignment has taught me how data engineering teams actually work - combining Linux commands, database management, and version control into real workflows that businesses depend on.
+
+# ETL process diagram
+<img width="641" height="326" alt="etl drawio" src="https://github.com/user-attachments/assets/53f17285-47d8-4210-9ee4-29913cada6b8" />
